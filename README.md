@@ -18,3 +18,5 @@ pip install plotly pandas numpy pulp geopandas geodatasets requests matplotlib b
 11. osmnx
 
 Some libraries are probably not used, of which can be removed.
+
+> `tl_2019_42_cousub` (iirc) is the Pennsylvania Shapefile
